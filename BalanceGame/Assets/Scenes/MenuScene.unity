@@ -3386,7 +3386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00be7926a3a6de641ac46acdde278cd6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sampleScene: SampleScene
+  sampleScene: DEMO
   settingsScreen: {fileID: 1484927218}
   creditsScreen: {fileID: 639780706}
   controlsScreen: {fileID: 974167134}
