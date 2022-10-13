@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Rabbit
   - Vegetable
+  - Fox
   layers:
   - Default
   - TransparentFX
